@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/var-dumper": "^5.0",
+        "altorouter/altorouter": "^2.0"
+    },
+    "autoload" : {
+        "psr-4": {
+            "Oshop\\": "app/"
+        }
+    }
+}
