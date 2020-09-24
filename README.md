@@ -2,7 +2,7 @@
 
 ## Description
 
-Oshop est la V1 d'un site e-commerce de vente de chaussures réalisé pendant le socle général de ma formation de Développeur Fullstack chez O'Clock.
+Oshop est la V1 d'un site e-commerce de vente de chaussures.
 Il propose la visualisation des produits et leur tri par catégorie, marque, type et a été codé selon le modèle MVC (Model-View-Controller).
 Les produits sont enregistrés en base de données MySQL.
 
@@ -15,4 +15,4 @@ Les produits sont enregistrés en base de données MySQL.
 ## Information complémentaire
 
 Un site d'administration (backoffice) y est associé :
-* [Oshop Backoffice](https://github.com/SeverineB/Oshop-Backoffice)
+* [Oshop Backoffice](https://github.com/Ben-Meziani/Oshop-Backoffice)
